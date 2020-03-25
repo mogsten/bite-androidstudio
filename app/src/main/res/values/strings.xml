@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">bite-FirstDemo</string>
+    <string name="facebook_app_id">472774853547732</string>
+    <string name="fb_login_protocol_scheme">fb472774853547732</string>
+
+    <string name="API_URL">http://vps189597.vps.ovh.ca/api</string>
+    <string name="CLIENT_ID">n0WUfrE7bABcaL41eABB5DIcggHBpfB7kQJunASa</string>
+    <string name="CLIENT_SECRET">uhSMXLalUmnZSQLttyCyeGpGWBnK1w0QNcHa2OJxpx1bOOOgdhE6DRDIdw5nTHB9evGu9SRIs5DYuRvoOryWWv1BihrG7yjmhZHNUF5oZtXzxSakx6Xd21Npu7MKAtQU</string>
+
+    <string name="title_activity_customer_main">CustomerMainActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
